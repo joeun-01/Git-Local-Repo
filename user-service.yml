@@ -1,6 +1,6 @@
 token:
     expiration_time: 864000000
-    secret : user_token_change_V1
+    secret : '{cipher}AYBXp/x0ErWy/SD+jxVihI4UFLaFdn8yB5oEB7p4z+iexGB8++esLvfL6XoHjs2fo/NHE6EwRtmIWNrMml2349vrZ8eDQk0tnku8Ss5NwXSWy3+daSnY8tCFuEHM1SGHuphS/SdjkLMoMAPN5g9ccAYyTmDz9CA8A0gdT9w3JMVVQEGkmG5LKBDv/3QvbpDOE99q53O+CXOgouEt6E+YDzSswTl6qaNYBaskZNszF0q+3P8z2dwbdx5YIbaDlI3zTlIu1x9QBC8uuhtJ5Y/F1GBGkpmzy/PWBJ7EwGk+SE8RKxNvbrPprWzBj/lLq4iTyMb8DK3uENi6GREif8WWuE1K998TIqa66VYF5nRXCB9ql4Gp4Ip2KwbU4O7LWZFz54Z1SAKFQdBm0Fqxgg7nu4NEbSMwyIrSjoz6WV+E+XCteUd4NEMMhLsb+mjJJM0pHEzis6fs9jenNosirr2eSrCoxRgg0fdwm2CSzts42+kIxto0xgLfezGk0F05MTZJbR/ckQjWGXOHZh4vof5Pi9IHi4szfoTm+k1cMs0qOKOIbxN/AcplVhybMSPbP5qoYMQ='
 
 gateway:
     ip: 203.249.126.181
